@@ -1,0 +1,37 @@
+{
+  "films": [
+    {
+      "id": 2,
+      "title": "Film 2",
+      "director": "Abc",
+      "publish_date": "17/04/2025",
+      "genre": "Hành động",
+      "thumbnail": "https://picsum.photos/200"
+    },
+    {
+      "title": "film 3",
+      "director": "thaivm2",
+      "publish_date": "2025-04-17",
+      "genre": "Hành động",
+      "thumbnail": "https://picsum.photos/200",
+      "id": 3
+    },
+    {
+      "title": "aaaaa111111",
+      "director": "thaivm2111111",
+      "publish_date": "2025-04-30",
+      "genre": "Hành động",
+      "thumbnail": "https://picsum.photos/100",
+      "id": 4
+    },
+    {
+      "title": "bbbbb",
+      "director": "thaivm2",
+      "publish_date": "2025-04-19",
+      "genre": "Hài",
+      "thumbnail": "https://picsum.photos/100",
+      "id": 5
+    }
+  ],
+  "users": []
+}
